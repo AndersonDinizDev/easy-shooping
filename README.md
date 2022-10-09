@@ -1,5 +1,5 @@
 # Easy Shooping
-Págna responsiva feita durante o segundo módulo de CSS, do curso <a href="https://rodolfomori.com.br/devclub/">Dev Club</a>.
+Página responsiva feita durante o segundo módulo de CSS, do curso <a href="https://rodolfomori.com.br/devclub/">Dev Club</a>.
 
 <h2>Tecnologias Utilizadas:</h2>
 <ul>
