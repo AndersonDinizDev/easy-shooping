@@ -1,5 +1,5 @@
 # Easy Shooping
-Landing-page made responsive made during the full-stack developer course.
+Responsive landing-page made during the full-stack developer course.
 
 <h2>Tecnologias Utilizadas:</h2>
 <ul>
