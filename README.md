@@ -1,5 +1,5 @@
 # Easy Shooping
-Responsive landing-page made during the full-stack developer course.
+Landing-Page made to train item positioning with FlexBox.
 
 <h2>Tecnologias Utilizadas:</h2>
 <ul>
